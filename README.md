@@ -7,7 +7,7 @@ Liri is a program that emulates a virtual assistant like iphone's 'Siri', but Li
 - 'do-what-it-says' - Read files with any parameter
 
 In order to use the program, first you need to clone it from Github to somewhere in your computer.
-Then, inside the root folder of 'liri-node-app', create a .env file with: 
+Then, inside the root folder of 'AmazonLike_Storefront', create a .env file with: 
 
             # Spotify API keys
 
